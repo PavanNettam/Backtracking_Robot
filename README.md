@@ -22,12 +22,14 @@ Your program should create output file out.txt
 If path exits, program should store path coordinates in sorted order (ascending order of x, for each x ascending order of y) (No other format for output is accepted). If no path exists ‘-1’ should be stored in output file.
 Input file description
 First line indicates the start point for the Bot, second line termination point, 3rd line onwards represent the layout matrix.
-Sample Input file: 00
+Sample Input file: 
+00
 33
 0111
 0010
 0011
 1000
+
 Sample Output file:
 
 00
