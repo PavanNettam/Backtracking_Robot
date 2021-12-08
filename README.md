@@ -21,21 +21,21 @@ You should access data only from the created multilinked list structure. You sho
 Your program should create output file out.txt
 If path exits, program should store path coordinates in sorted order (ascending order of x, for each x ascending order of y) (No other format for output is accepted). If no path exists ‘-1’ should be stored in output file.
 Input file description
-First line indicates the start point for the Bot, second line termination point, 3rd line onwards represent the layout matrix.
+First line indicates the start point for the Bot, second line termination point, 3rd line onwards represent the layout matrix.<br><br>
 Sample Input file: 
-00
-33
-0111
-0010
-0011
-1000
+00<br>
+33<br>
+0111<br>
+0010<br>
+0011<br>
+1000<br>
 
 Sample Output file:
 
-00
-10
-11
-21
-31
-32
-33
+00<br>
+10<br>
+11<br>
+21<br>
+31<br>
+32<br>
+33<br>
